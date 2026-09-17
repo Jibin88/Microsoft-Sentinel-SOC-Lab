@@ -479,11 +479,6 @@ Overall, the project provides hands-on experience with security monitoring, log 
 
 ---
 
-# Project Documentation
-
-A detailed academic project report is available in this repository:
-
-**Microsoft_Sentinel_SOC_Project_Documentation_.pdf**
 
 ---
 
